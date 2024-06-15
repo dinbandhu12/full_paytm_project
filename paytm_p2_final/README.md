@@ -35,5 +35,7 @@ command to use for running process in this application
 	npx prisma studio (for ui desing view)
 
 
+output image
+[output_img](/paytm_p2_final/)
 
 <!-- 23:33 timeline -->
