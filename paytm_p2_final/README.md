@@ -36,6 +36,6 @@ command to use for running process in this application
 
 
 output image
-[output_img](/paytm_p2_final/)
+![output_img](output_img.png)
 
 <!-- 23:33 timeline -->
